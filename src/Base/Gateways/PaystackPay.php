@@ -1,8 +1,8 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Base\Gateways;
+namespace Xgenious\Paymentgateway\Base\Gateways;
 
-use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
+use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
 use Unicodeveloper\Paystack\Facades\Paystack;
 
 

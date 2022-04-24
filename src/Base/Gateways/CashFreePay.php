@@ -1,7 +1,7 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Base\Gateways;
-use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
+namespace Xgenious\Paymentgateway\Base\Gateways;
+use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
 
 class CashFreePay extends PaymentGatewayBase
 {

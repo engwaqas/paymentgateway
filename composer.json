@@ -1,17 +1,17 @@
 {
-    "name": "engwaqas/paymentgateway",
+    "name": "xgenious/paymentgateway",
     "description": "a laravel package to manage multiple payment gateway",
     "keywords": [
         "Laravel",
-        "engwaqas"
+        "xgenious"
     ],
     "authors": [
         {
-            "name": "Muhammad Waqas",
-            "email": "engwaqasch@gmail.com"
+            "name": "Sharifur Rahman",
+            "email": "dvrobin4@gmail.com"
         }
     ],
-    "homepage": "https://github.com/engwaqas/paymentgateway",
+    "homepage": "https://github.com/Sharifur/paymentgateway",
     "require": {
         "php": "^7.3",
         "laravel/framework": "^8.0",
@@ -35,18 +35,18 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Engwaqas\\Paymentgateway\\": "src/"
+            "Xgenious\\Paymentgateway\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Engwaqas\\Paymentgateway\\Tests\\": "tests/"
+            "Xgenious\\Paymentgateway\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Engwaqas\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
+                "Xgenious\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
             ]
         }
     },

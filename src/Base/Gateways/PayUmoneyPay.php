@@ -1,12 +1,12 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Base\Gateways;
+namespace Xgenious\Paymentgateway\Base\Gateways;
 
 use Tzsk\Payu\Concerns\Attributes;
 use Tzsk\Payu\Concerns\Customer;
 use Tzsk\Payu\Concerns\Transaction;
 use Tzsk\Payu\Facades\Payu;
-use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
+use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
 
 class PayUmoneyPay extends PaymentGatewayBase
 {

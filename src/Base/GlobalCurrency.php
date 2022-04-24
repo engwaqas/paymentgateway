@@ -1,6 +1,6 @@
 <?php
 
-namespace  Engwaqas\Paymentgateway\Base;
+namespace  Xgenious\Paymentgateway\Base;
 
 /**
  *  List of available currency in this package

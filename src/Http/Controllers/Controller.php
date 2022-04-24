@@ -1,6 +1,6 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Http\Controllers;
+namespace Xgenious\Paymentgateway\Http\Controllers;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Bus\DispatchesJobs;

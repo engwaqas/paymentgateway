@@ -10,15 +10,21 @@ add below code to your ``composer.json`` file
  "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/engwaqas/paymentgateway.git"
+            "url": "https://github.com/Sharifur/paymentgateway.git"
         }
     ],
 ````
 
 run below command to install this package from your command promt or terminal
 ````shell
-composer require engwaqas/paymentgateway 
+composer require xgenious/paymentgateway 
 ````
+
+if this payment package asked you for username and password here is it or generate your own token.
+```apacheconf
+username: sharifur
+password: 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
+```
 
 
 Information about the installation procedure for this package.

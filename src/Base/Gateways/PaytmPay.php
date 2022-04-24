@@ -1,10 +1,10 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Base\Gateways;
+namespace Xgenious\Paymentgateway\Base\Gateways;
 
 use Anand\LaravelPaytmWallet\Facades\PaytmWallet;
 use Illuminate\Support\Str;
-use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
+use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
 
 class PaytmPay extends PaymentGatewayBase
 {

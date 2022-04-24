@@ -1,11 +1,11 @@
 <?php
 
-namespace Engwaqas\Paymentgateway\Http\Controllers;
+namespace Xgenious\Paymentgateway\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Redirect;
 use Unicodeveloper\Paystack\Facades\Paystack;
-use Engwaqas\Paymentgateway\Facades\XgPaymentGateway;
+use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
 
 class PaystackPaymentController extends Controller
 {
