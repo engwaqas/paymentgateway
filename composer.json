@@ -3,15 +3,15 @@
     "description": "a laravel package to manage multiple payment gateway",
     "keywords": [
         "Laravel",
-        "xgenious"
+        "engwaqas"
     ],
     "authors": [
         {
-            "name": "Sharifur Rahman",
-            "email": "dvrobin4@gmail.com"
+            "name": "Muhammad Waqas",
+            "email": "engwaqasch@gmail.com"
         }
     ],
-    "homepage": "https://github.com/Sharifur/paymentgateway",
+    "homepage": "https://github.com/engwaqas/paymentgateway",
     "require": {
         "php": "^7.3",
         "laravel/framework": "^8.0",
