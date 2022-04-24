@@ -1,9 +1,9 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Providers;
+namespace Engwaqas\Paymentgateway\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Xgenious\Paymentgateway\Base\PaymentGatewayHelpers;
+use Engwaqas\Paymentgateway\Base\PaymentGatewayHelpers;
 
 class PaymentgatewayServiceProvider extends ServiceProvider
 {
@@ -64,7 +64,7 @@ class PaymentgatewayServiceProvider extends ServiceProvider
          */
         // if ($this->app->runningInConsole()) {
         //     $this->commands([
-        //         \Xgenious\Paymentgateway\Console\Commands\PaymentgatewayCommand::class,
+        //         \Engwaqas\Paymentgateway\Console\Commands\PaymentgatewayCommand::class,
         //     ]);
         // }
 

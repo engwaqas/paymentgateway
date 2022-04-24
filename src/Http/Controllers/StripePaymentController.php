@@ -1,10 +1,10 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Http\Controllers;
+namespace Engwaqas\Paymentgateway\Http\Controllers;
 
 
 use Illuminate\Http\Request;
-use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
+use Engwaqas\Paymentgateway\Facades\XgPaymentGateway;
 
 class StripePaymentController extends Controller
 {

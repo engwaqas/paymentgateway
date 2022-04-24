@@ -1,11 +1,11 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Base\Gateways;
+namespace Engwaqas\Paymentgateway\Base\Gateways;
 
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
 use Instamojo\Instamojo;
-use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
+use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
 
 class InstamojoPay extends PaymentGatewayBase
 {

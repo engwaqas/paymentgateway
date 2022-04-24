@@ -1,9 +1,9 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Facades;
+namespace Engwaqas\Paymentgateway\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Xgenious\Paymentgateway\Base\PaymentGatewayHelpers;
+use Engwaqas\Paymentgateway\Base\PaymentGatewayHelpers;
 
 /**
  * @see GlobalCurrency

@@ -1,8 +1,8 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Base\Gateways;
+namespace Engwaqas\Paymentgateway\Base\Gateways;
 use Mollie\Laravel\Facades\Mollie;
-use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
+use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
 
 class MolliePay extends PaymentGatewayBase
 {

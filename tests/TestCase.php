@@ -1,6 +1,6 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Tests;
+namespace Engwaqas\Paymentgateway\Tests;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 use Illuminate\Foundation\Application;
@@ -22,7 +22,7 @@ abstract class TestCase extends OrchestraTestCase
     protected function getPackageProviders($app)
     {
         return [
-            \Xgenious\Paymentgateway\Providers\PaymentgatewayServiceProvider::class
+            \Engwaqas\Paymentgateway\Providers\PaymentgatewayServiceProvider::class
         ];
     }
 }

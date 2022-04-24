@@ -1,6 +1,6 @@
 <?php
 
-namespace  Xgenious\Paymentgateway\Base;
+namespace  Engwaqas\Paymentgateway\Base;
 
 abstract class PaymentGatewayBase
 {

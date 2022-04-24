@@ -1,6 +1,6 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Console\Commands;
+namespace Engwaqas\Paymentgateway\Console\Commands;
 
 use Illuminate\Console\Command;
 
