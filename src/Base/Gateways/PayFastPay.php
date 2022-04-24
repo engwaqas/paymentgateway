@@ -1,7 +1,7 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Base\Gateways;
-use Xgenious\Paymentgateway\Base\PaymentGatewayBase;
+namespace Engwaqas\Paymentgateway\Base\Gateways;
+use Engwaqas\Paymentgateway\Base\PaymentGatewayBase;
 
 
 class PayFastPay extends PaymentGatewayBase

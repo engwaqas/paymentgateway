@@ -1,20 +1,20 @@
 <?php
 
-namespace Xgenious\Paymentgateway\Base;
+namespace Engwaqas\Paymentgateway\Base;
 
-use Xgenious\Paymentgateway\Base\Gateways\CashFreePay;
-use Xgenious\Paymentgateway\Base\Gateways\FlutterwavePay;
-use Xgenious\Paymentgateway\Base\Gateways\InstamojoPay;
-use Xgenious\Paymentgateway\Base\Gateways\MidtransPay;
-use Xgenious\Paymentgateway\Base\Gateways\MolliePay;
-use Xgenious\Paymentgateway\Base\Gateways\PayFastPay;
-use Xgenious\Paymentgateway\Base\Gateways\PaypalPay;
-use Xgenious\Paymentgateway\Base\Gateways\PaystackPay;
-use Xgenious\Paymentgateway\Base\Gateways\PaytmPay;
-use Xgenious\Paymentgateway\Base\Gateways\PayUmoneyPay;
-use Xgenious\Paymentgateway\Base\Gateways\RazorPay;
-use Xgenious\Paymentgateway\Base\Gateways\StripePay;
-use Xgenious\Paymentgateway\Base\Gateways\MarcadoPagoPay;
+use Engwaqas\Paymentgateway\Base\Gateways\CashFreePay;
+use Engwaqas\Paymentgateway\Base\Gateways\FlutterwavePay;
+use Engwaqas\Paymentgateway\Base\Gateways\InstamojoPay;
+use Engwaqas\Paymentgateway\Base\Gateways\MidtransPay;
+use Engwaqas\Paymentgateway\Base\Gateways\MolliePay;
+use Engwaqas\Paymentgateway\Base\Gateways\PayFastPay;
+use Engwaqas\Paymentgateway\Base\Gateways\PaypalPay;
+use Engwaqas\Paymentgateway\Base\Gateways\PaystackPay;
+use Engwaqas\Paymentgateway\Base\Gateways\PaytmPay;
+use Engwaqas\Paymentgateway\Base\Gateways\PayUmoneyPay;
+use Engwaqas\Paymentgateway\Base\Gateways\RazorPay;
+use Engwaqas\Paymentgateway\Base\Gateways\StripePay;
+use Engwaqas\Paymentgateway\Base\Gateways\MarcadoPagoPay;
 
 class PaymentGatewayHelpers
 {

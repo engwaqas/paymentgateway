@@ -35,18 +35,18 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xgenious\\Paymentgateway\\": "src/"
+            "Engwaqas\\Paymentgateway\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xgenious\\Paymentgateway\\Tests\\": "tests/"
+            "Engwaqas\\Paymentgateway\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Xgenious\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
+                "Engwaqas\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
             ]
         }
     },
